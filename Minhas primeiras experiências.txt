@@ -1,0 +1,5 @@
+Estou começando esse bootcamp na DIO (Potência Tech iFood - Desenvolvimento de Jogos)
+com o objetivo de aprimorar meus conhecimentos em HTML, CSS e JS, espero conseguir 
+uma boa experiência com esse bootcamp que estou fazendo,no momento, tenho esse pequeno 
+desafio de fazer um repositório para expressar minhas experiências com o bootcamp, até 
+agora ta dando tudo certo.
